@@ -6,11 +6,17 @@
 ###### Organisation : Lincoln
 ###### R version 3.1.2 (2014-10-31)
 ---
- | :file_folder: | :one: 
+ |  | :one: 
  |--------------|:-------------:
  | col 3 is       | right-aligned  
  | col 2 is       | centered       
  | zebra stripes  | are neat       
+ 
+| :file_folder:   | :one:           |
+|-----------------|:---------------:|
+| col 1 is        |  left-aligned   |
+| col 2 is        |    centered     |
+| col 3 is        | right-aligned   | 
  
  
  
