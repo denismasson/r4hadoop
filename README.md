@@ -3,8 +3,9 @@
 ###### Author : Denis Masson
 ###### Organisation : Lincoln
 ###### R version 3.1.2 (2014-10-31)
+---
 
-| Tables                                |
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
