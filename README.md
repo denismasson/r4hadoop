@@ -4,13 +4,12 @@
 ###### Organisation : Lincoln
 ###### R version 3.1.2 (2014-10-31)
 ---
-| ### r4hadoop  |
-| ------------- |
+### r4hadoop  |
 
-| ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+ ------------- |:-------------:|
+ col 3 is      | right-aligned |
+ col 2 is      | centered      |
+ zebra stripes | are neat      |
 
 
 
