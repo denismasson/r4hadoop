@@ -5,6 +5,5 @@
 ###### R version 3.1.2 (2014-10-31)
 Scripts : **rhive** <- retrieves data from Hive table
 
-```javascript R script
-rhive.connect(hiveServer2=TRUE,user="xxx",password="xxx")
-```
+R script
+`rhive.connect(hiveServer2=TRUE,user="xxx",password="xxx")`
