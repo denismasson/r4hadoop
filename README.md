@@ -13,6 +13,9 @@
 
 :one: **rhive.R** <- *retrieves data from Hive table*
 
+
+| :paperclip: | **rhive** |
+|-------------|:---------:|
 ```
 ...
 rhive.connect(hiveServer2=TRUE,user="xxx",password="xxx")
