@@ -13,8 +13,7 @@
 
 :one: **rhive.R** <- *retrieves data from Hive table*
 
-
-| :paperclip: | **rhive** |
+| :paperclip: Library | **rhive** |
 |-------------|:---------:|
 ```
 ...
@@ -23,6 +22,9 @@ rhive.connect(hiveServer2=TRUE,user="xxx",password="xxx")
 ```
 
 :two: **rhdfs.R** <- *retrieves data from HDFS file*
+
+| :paperclip: Library | **rhdfs** |
+|-------------|:---------:|
 
 ```
 ....
