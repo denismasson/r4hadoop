@@ -14,8 +14,15 @@
 :one: **rhive.R** <- *retrieves data from Hive table*
 
 ```
-
+...
 rhive.connect(hiveServer2=TRUE,user="xxx",password="xxx")
-
+....
 ```
 
+:two: **rhdfs.R** <- *retrieves data from HDFS file*
+
+```
+....
+m <- hdfs.line.reader(path ="/user/dma/patriminsee.csv" )
+....
+```
