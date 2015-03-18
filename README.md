@@ -14,6 +14,8 @@
 :one: **rhive.R** <- *retrieves data from Hive table*
 
 ```
+
 rhive.connect(hiveServer2=TRUE,user="xxx",password="xxx")
+
 ```
 
