@@ -11,10 +11,11 @@
 | :file_folder:                | :one:           |
 |------------------------------|:---------------:|
 | col 1 is                     |  left-aligned   |
-|  :busts_in_silhouette:       | Denis Masson    |
+| :busts_in_silhouette:       | Denis Masson    |
+| :office:                    | Lincoln         |
 | :date:                       | 18/03/2015      | 
  
- 
+ :office:
  
  :one: | :two: 
 --- | --- | ---
