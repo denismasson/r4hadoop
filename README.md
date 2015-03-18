@@ -14,10 +14,10 @@
  
  
  
- Markdown | Less | Pretty
+ :one: | :two: 
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+*Still* | `renders`
+1 | 2 
 
 
 
