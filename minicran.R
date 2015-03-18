@@ -1,7 +1,7 @@
 library(miniCRAN)
-# Specify list of packages to download
-pkgs <- c("rhive")
-
-//revolution <- c(CRAN="http://cran.revolutionanalytics.com")
-pkgList <- pkgDep(pkgs, type="source", suggests = FALSE, )
-pkgList
+#tags <- c("RHive", "rhdfs")
+tags <- c("chron")
+pkgDep(tags, suggests = TRUE, enhances=FALSE)
+dg <- makeDepGraph(tags, enhances=TRUE)
+set.seed(2)
+plot(dg, legendPosition = c(-1, 1), vertex.size=20)
