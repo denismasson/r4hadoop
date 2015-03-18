@@ -11,7 +11,7 @@
  
  
 
-:one: **rhive** <- ######retrieves data from Hive table
+:one: **rhive** <- *retrieves data from Hive table*
 R script
 `rhive.connect(hiveServer2=TRUE,user="xxx",password="xxx")`
 
