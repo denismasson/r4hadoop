@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------
-#--- Query HIVE Table  
+#--- Query HIVE Table  Exemple
 #------------------------------------------------------------------------------
 library(RHive)
 Sys.setenv(HIVE_HOME="/opt/cloudera/parcels/CDH/lib/hive")
