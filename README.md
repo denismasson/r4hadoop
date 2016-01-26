@@ -5,7 +5,7 @@
 | :package:                    | R version 3.1.2 (2014-10-31)                         |
 | :busts_in_silhouette:        | Denis Masson                                         |
 | :office:                     | Lincoln                                              |
-| :date:                       | 18/03/2015                                           | 
+| :date:                       | 18/03/2015  - 26/01/2016                             | 
  
 ---
  
